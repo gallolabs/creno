@@ -1,6 +1,8 @@
 # medico
 A tool to find a medical disponibility !
 
+Will replace https://github.com/gallofeliz/doctolib-availabilities
+
 ## Specs
 - An API
 - 2 resources :
