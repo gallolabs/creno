@@ -1,5 +1,5 @@
-# medico
-A tool to find a medical disponibility !
+# Creno
+A tool to find a medical and other time slots disponibility !
 
 Will replace https://github.com/gallofeliz/doctolib-availabilities
 
